@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @triskler
-- 👀 I’m interested in learn Data Science
-- 🌱 I’m currently learning SQL, Python, R
+- 👀 I’m interested in learn Devops, Data Science
+- 🌱 I’m currently learning SQL, Python, Javascript, 
 - 💞️ I’m looking to collaborate on simple projects
-- 📫 How to reach me rafael_dafonseca@yahoo.com.br
+- 📫 How to reach me fonseca.wutang@gmail.com
 
 <!---
 triskler/triskler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
