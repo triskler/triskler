@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @triskler
-- 👀 I’m interested in learn Devops, Data Science
-- 🌱 I’m currently learning SQL, Python, Javascript, 
-- 💞️ I’m looking to collaborate on simple projects
+- 👀 I’m interested in learn Devops, Data Science, OOP
+- 🌱 I’m currently learning SQL, Python, Javascript, Java
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me fonseca.wutang@gmail.com
 
 <!---
