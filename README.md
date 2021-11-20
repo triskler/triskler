@@ -30,10 +30,13 @@
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
 
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  
+  <br>
+  <br>
 
 <div> 
-  <a href = "mailto:contatofonseca.wutang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-fonseca-6574822a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatofonseca.wutang@gmail.com"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720947-15e7a442-7ee6-48ab-847d-5bd22a384c2b.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-fonseca-6574822a" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720989-18904c87-b15c-4df9-83a1-c2062dd8f100.png" target="_blank"></a>
   </div>
 
 
