@@ -19,7 +19,9 @@
 <img height="42em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721365-3e1b8a8f-92a2-45ac-b1bf-2372a179c1c9.png" />
 <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img height="45em" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png"/>
+
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
 
@@ -43,6 +45,14 @@
 
 
  ![Snake animation](https://github.com/triskler/triskler/blob/output/github-contribution-grid-snake.svg)
+  
+  <footer>
+    <h6> Features </h6>
+      <ul>    
+        <li><a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript">Icons8</a></li>
+        <li><a href="https://www.iconfinder.com/Flatart">Flatart</a></li>
+        <li><a href="https://www.flaticon.com">Flaticon</a></li>
+  </footer>
 
 
 <!---
