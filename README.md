@@ -17,8 +17,8 @@
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
 <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721277-1e299101-1290-4707-a555-dcadc0a04d81.png" /> 
 <img height="42em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721365-3e1b8a8f-92a2-45ac-b1bf-2372a179c1c9.png" />
+<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
