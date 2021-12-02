@@ -1,9 +1,10 @@
-Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullStack Engineer na <br> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg"/> 
+Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullStack Engineer na <br> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" /> 
  <br> <br>
+ 
 <div align="center">
-  <a href="https://github.com/triskler">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=triskler&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triskler&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/triskler/github-readme-stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=triskler&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triskler&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
 
