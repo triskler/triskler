@@ -35,7 +35,20 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullSta
   <a href="https://www.linkedin.com/in/rafael-fonseca-6574822a" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720989-18904c87-b15c-4df9-83a1-c2062dd8f100.png" target="_blank"></a>
   <a href="https://www.codecademy.com/profiles/Triskler" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142732566-d886ee3e-c5b5-4189-8e00-b44ce61093b4.png" target="_blank"/></a>
  </div>
+ 
+ <br>
+ 
+ <p align="center"> 
 
+ ## Total de visitas no meu perfil 
+ <br>
+  
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/triskler/count.svg" />
+ </p>
+
+ </p>
+ 
 
 
 
