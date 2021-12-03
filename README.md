@@ -25,22 +25,22 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullSta
 
 ## Tecnologias em desenvolvimento
 <div>
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721080-aff10711-8598-4e9a-9fbb-0aa23f85b072.png" />
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721192-e5b70c10-d72c-4b49-9129-4076cc8ec210.png" /> 
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721277-1e299101-1290-4707-a555-dcadc0a04d81.png" /> 
-<img height="42em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721365-3e1b8a8f-92a2-45ac-b1bf-2372a179c1c9.png" />
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
-<img height="45em" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-<img height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
-<img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
-<img height="40em" src="https://user-images.githubusercontent.com/88354341/144519917-f39be6fc-af42-4509-ad19-2eda1cffedc7.png" />
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721080-aff10711-8598-4e9a-9fbb-0aa23f85b072.png" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721192-e5b70c10-d72c-4b49-9129-4076cc8ec210.png" /> 
+ <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721277-1e299101-1290-4707-a555-dcadc0a04d81.png" /> 
+ <img height="42em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721365-3e1b8a8f-92a2-45ac-b1bf-2372a179c1c9.png" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
+ <img height="45em" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
+ <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+ <img height="40em" src="https://user-images.githubusercontent.com/88354341/144519917-f39be6fc-af42-4509-ad19-2eda1cffedc7.png" />
+ <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-  <br>
-  <br>
+<br>
+<br>
 
 <div> 
   <a href = "mailto:contatofonseca.wutang@gmail.com"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720947-15e7a442-7ee6-48ab-847d-5bd22a384c2b.png" target="_blank"></a>
