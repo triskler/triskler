@@ -37,6 +37,9 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullSta
  <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
  <img height="40em" src="https://user-images.githubusercontent.com/88354341/144519917-f39be6fc-af42-4509-ad19-2eda1cffedc7.png" />
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/145474961-2107b336-c665-4c19-a99c-9998e6d1dfad.png" />
+ <img height="45em" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
+ <img height="45em" src="https://user-images.githubusercontent.com/88354341/145476786-f8aec111-d310-4479-88a6-b107294124e6.png" />
 </div>
 
 <br>
