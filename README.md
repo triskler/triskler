@@ -1,4 +1,4 @@
-Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando FullStack Engineer na <br> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" /> 
+Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Science e FullStack Engineer na <br> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" /> 
  <br> <br>
  
 <p align="center">
