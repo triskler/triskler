@@ -9,11 +9,7 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
     />
   </a>
   <a href="https://github.com/triskler/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=triskler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
+  
   </a>
 </p>
   
