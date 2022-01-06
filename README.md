@@ -49,16 +49,7 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
  
  <br>
  
- <p align="center"> 
-
- ## Total de visitas no meu perfil 
- <br>
-  
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/triskler/count.svg" />
- </p>
-
- </p>
+ 
  
 
 
