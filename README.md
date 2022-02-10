@@ -43,7 +43,7 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
 
 <div> 
   <a href = "mailto:contatofonseca.wutang@gmail.com"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720947-15e7a442-7ee6-48ab-847d-5bd22a384c2b.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-fonseca-6574822a" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720989-18904c87-b15c-4df9-83a1-c2062dd8f100.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-brum-fonseca" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720989-18904c87-b15c-4df9-83a1-c2062dd8f100.png" target="_blank"></a>
   <a href="https://www.codecademy.com/profiles/Triskler" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142732566-d886ee3e-c5b5-4189-8e00-b44ce61093b4.png" target="_blank"/></a>
  </div>
  
