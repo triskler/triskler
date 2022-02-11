@@ -1,16 +1,21 @@
-Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Science e FullStack Engineer na <br> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Codecademy.svg" /> 
+## Oi!! Meu nome é Rafael Fonseca(Triskler), sou apaixonado por tecnologia e estou cursando Desenvolvimento web na 
+<br>
+<a href="https://www.rocketseat.com.br/" target="_blank"> <img height="80em" src="https://fhugoduarte.github.io/portfolio/images/rocketseat.png" /></a> <a target="_blank" href="https://www.dio.me/"><img height="100em" src="https://user-images.githubusercontent.com/88354341/153638478-1506d478-d183-45c4-bd8a-d2b1c75c5494.png" /></a>
+
+
+
  <br> <br>
  
-<p align="center">
-  <a href="https://github.com/triskler/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=triskler&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/triskler/github-readme-stats">
+ <div>
+  <p align="center">
+    <a href="https://github.com/triskler/triskler.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Triskler streak" src="https://github-readme-streak-stats.herokuapp.com/?user=triskler&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  </p>
+ </div>
+
   
-  </a>
+
 </p>
   
 
@@ -20,7 +25,7 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
 
 
 ## Tecnologias em desenvolvimento
-<div>
+<div text-align="center">
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721080-aff10711-8598-4e9a-9fbb-0aa23f85b072.png" />
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721192-e5b70c10-d72c-4b49-9129-4076cc8ec210.png" /> 
  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
@@ -37,7 +42,14 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
  <img height="45em" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/145476786-f8aec111-d310-4479-88a6-b107294124e6.png" />
 </div>
+<br>
+<br>
 
+
+## 🏠 My contacts
+
+
+</div>
 <br>
 <br>
 
@@ -62,6 +74,11 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
         <li><a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank">Icons8</a></li>
         <li><a href="https://www.iconfinder.com/Flatart" target="_blank">Flatart</a></li>
         <li><a href="https://www.flaticon.com" target="_blank">Flaticon</a></li>
+       
+##  ❤ Visualizações e seguidores
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=triskler-hub">
+</a>
   </footer>
 
 
