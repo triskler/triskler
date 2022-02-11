@@ -1,6 +1,6 @@
 ## Oi!! Meu nome é Rafael Fonseca(Triskler), sou apaixonado por tecnologia e estou cursando Desenvolvimento web na 
 <br>
-<a href="https://www.rocketseat.com.br/" target="_blank"> <img height="100em" src="https://www.rocketseat.com.br/icons/icon-48x48.png" /></a> <a target="_blank" href="https://www.dio.me/"><img height="100em" src="https://user-images.githubusercontent.com/88354341/153638478-1506d478-d183-45c4-bd8a-d2b1c75c5494.png" /></a>
+<a href="https://www.rocketseat.com.br/" target="_blank"> <img title="RocketSeat" height="100em" src="https://www.rocketseat.com.br/icons/icon-48x48.png" /></a> <a target="_blank" href="https://www.dio.me/"><img height="100em" src="https://user-images.githubusercontent.com/88354341/153638478-1506d478-d183-45c4-bd8a-d2b1c75c5494.png" /></a>
 
  <br> <br>
  
