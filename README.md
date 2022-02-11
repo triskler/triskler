@@ -30,8 +30,8 @@ Oi!! Meu nome é Rafael Fonseca, sou apaixonado por tecnologia, cursando Data Sc
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
  <img height="45em" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
- <img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
- <img height="40em" src="https://user-images.githubusercontent.com/88354341/144519917-f39be6fc-af42-4509-ad19-2eda1cffedc7.png" />
+ <img height="40em" title="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+ <img height="40em" title="MatPlotLib" src="https://user-images.githubusercontent.com/88354341/144519917-f39be6fc-af42-4509-ad19-2eda1cffedc7.png" />
  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/145474961-2107b336-c665-4c19-a99c-9998e6d1dfad.png" />
  <img height="45em" src="https://pandas.pydata.org/static/img/favicon_white.ico" />
