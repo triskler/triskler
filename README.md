@@ -10,14 +10,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Triskler streak" src="https://github-readme-streak-stats.herokuapp.com/?user=triskler&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   </p>
- <br/>
-  <a href="https://github.com/triskler/triskler.git"><img alt="Triskler Github Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=triskler&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/triskler/triskler.git"><img alt="Triskler Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triskler&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
 <a href="https://github.com/triskler/triskler.git"><img alt="TrisklerActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=triskler&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -43,8 +35,8 @@
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721277-1e299101-1290-4707-a555-dcadc0a04d81.png" /> 
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721365-3e1b8a8f-92a2-45ac-b1bf-2372a179c1c9.png" />
  <img height="45em" src="https://user-images.githubusercontent.com/88354341/142721791-e456e3e5-89fb-46ea-a9cd-52bec1dd8d76.png" />
- <img height="45em" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
- <img height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
+ <img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" />
+ <img style="background-color:black; "height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
  <img height="40em" title="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
  
 </div>
