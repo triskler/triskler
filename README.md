@@ -3,10 +3,7 @@
 <a href="https://www.rocketseat.com.br/" target="_blank"> <img title="RocketSeat" height="100em" src="https://www.rocketseat.com.br/icons/icon-48x48.png" /></a> <a target="_blank" href="https://www.dio.me/"><img height="100em" src="https://user-images.githubusercontent.com/88354341/153638478-1506d478-d183-45c4-bd8a-d2b1c75c5494.png" /></a><a href="https://www.freecodecamp.org/learn/" ><img height="100em" src="https://styles.redditmedia.com/t5_34mfx/styles/communityIcon_odbxo8lc3tv41.png" /></a> 
 
  <br> <br>
- <div align="center">
- <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=triskler&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000&layout=compact"/></td>
-      <tr style="padding: 0">
- </div>
+
  
  <div>
   <p align="center">
