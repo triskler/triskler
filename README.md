@@ -68,11 +68,7 @@
  ![Snake animation](https://github.com/triskler/triskler/blob/output/github-contribution-grid-snake.svg)
   
   <footer>
-    <h6> Features </h6>
-      <ul>    
-        <li><a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank">Icons8</a></li>
-        <li><a href="https://www.iconfinder.com/Flatart" target="_blank">Flatart</a></li>
-        <li><a href="https://www.flaticon.com" target="_blank">Flaticon</a></li>
+   
        
 ##  ❤ Visualizações e seguidores
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
