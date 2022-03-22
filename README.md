@@ -1,10 +1,6 @@
-## Oi!! Meu nome é Rafael Fonseca(Triskler), sou apaixonado por tecnologia e estou cursando Desenvolvimento web na 
-<br>
-<a href="https://www.rocketseat.com.br/" target="_blank"> <img title="RocketSeat" height="100em" src="https://www.rocketseat.com.br/icons/icon-48x48.png" /></a> <a target="_blank" href="https://www.dio.me/"><img height="100em" src="https://user-images.githubusercontent.com/88354341/153638478-1506d478-d183-45c4-bd8a-d2b1c75c5494.png" /></a><a href="https://www.freecodecamp.org/learn/" ><img height="100em" src="https://styles.redditmedia.com/t5_34mfx/styles/communityIcon_odbxo8lc3tv41.png" /></a> 
+## Oi!! Meu nome é Rafael Fonseca(Triskler), atualemente estou estudando e engordando. 
+## Tem oportunidades? Eu tenho empenho! Deal?
 
- <br> <br>
-
- 
  <div>
   <p align="center">
     <a href="https://github.com/triskler/triskler.git">
@@ -13,15 +9,9 @@
   </p>
 <br/>
 
-<a href="https://github.com/triskler/triskler.git"><img alt="TrisklerActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=triskler&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+  <a href="https://github.com/triskler/triskler.git"><img alt="TrisklerActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=triskler&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  </div>
 
-  
-
-</p>
   
 
 
@@ -39,25 +29,16 @@
  <img height="45em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" />
  <img style="background-color:black; "height="45em" src="https://user-images.githubusercontent.com/88354341/142722531-0d2e8b81-535a-4614-8956-df24df1cc7e3.png" />
  <img height="40em" title="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
- 
 </div>
 <br>
-<br>
-
-
-## 🏠 My contacts
-
-
-</div>
+## My contacts
 <br>
 <br>
-
 <div> 
   <a href = "mailto:contatofonseca.wutang@gmail.com"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720947-15e7a442-7ee6-48ab-847d-5bd22a384c2b.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-brum-fonseca" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142720989-18904c87-b15c-4df9-83a1-c2062dd8f100.png" target="_blank"></a>
   <a href="https://www.codecademy.com/profiles/Triskler" target="_blank"><img height="40em" src="https://user-images.githubusercontent.com/88354341/142732566-d886ee3e-c5b5-4189-8e00-b44ce61093b4.png" target="_blank"/></a>
  </div>
- 
  <br>
  
  
