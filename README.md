@@ -1,4 +1,4 @@
-## Oi!! Meu nome é Rafael Fonseca(Triskler), atualemente estou estudando e engordando. 
+## Oi!! Meu nome é Rafael Fonseca(Triskler), atualmente estou estudando e engordando. 
 ## Tem oportunidades? Eu tenho empenho! Deal?
 
  <div>
